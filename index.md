@@ -1,6 +1,8 @@
 # Robotics, Embedded and other tinkerings
 
-I have a few projects where I try out different things, for the sake of learning.
+Hi, I am an engineer, I like tinkering with machines. I have a few projects where I try out different things, for the sake of learning but my real love is for the machines that make our world spin, besides the black magic of Internet (and its everpresent shadow) I want to start a documentation as a way of inspiring me and commiting to playing with machines so that eventually I can mass produce a glorious army, so that I can send it to clean the bathroom.
+
+And here I crave into bits and bytes, the unyielding will of the first machine god, that I need to keep writing.
 
 ## Computing and other programming stuff:
 
@@ -18,7 +20,7 @@ This is merely for the amusement and that once implemented, the algorithm become
 
 Nowadays I've only implemented the Kalman Linear Filter, which is more of a theoretical one but it is indeed deserving of some time.
 
-### 3D printing
+## 3D printing
 
 Additive manufacturing's capabilities within the rapid prototipying sector are astonishing for the hobbist, the printing results, the tolerances and ease of producing and testing designs are unmatched when paired with the patience of calibration.
 
